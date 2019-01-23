@@ -1,6 +1,0 @@
-C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\NewLevel2019\WorkPCUnitTestFrameworkSol\WorkPCUnitTestFramework\bin\Debug\WorkPCUnitTestFramework.dll
-C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\NewLevel2019\WorkPCUnitTestFrameworkSol\WorkPCUnitTestFramework\bin\Debug\WorkPCUnitTestFramework.pdb
-C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\NewLevel2019\WorkPCUnitTestFrameworkSol\WorkPCUnitTestFramework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\NewLevel2019\WorkPCUnitTestFrameworkSol\WorkPCUnitTestFramework\obj\Debug\WorkPCUnitTestFramework.csprojResolveAssemblyReference.cache
-C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\NewLevel2019\WorkPCUnitTestFrameworkSol\WorkPCUnitTestFramework\obj\Debug\WorkPCUnitTestFramework.dll
-C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\Auto - Andre\NewLevel2019\WorkPCUnitTestFrameworkSol\WorkPCUnitTestFramework\obj\Debug\WorkPCUnitTestFramework.pdb
