@@ -9,7 +9,7 @@ namespace WorkPCUnitTestFramework
         [AssemblyInitialize]
         public static void BeforeAssembly(TestContext testContext)
         {
-            Console.WriteLine("Beofre Assembly");
+            Console.WriteLine("Before Assembly");
            
         }
 
@@ -69,9 +69,10 @@ namespace WorkPCUnitTestFramework
 
 
         [AssemblyCleanup]
-        public static void AferAssenbly()
+        public static void AferAssembly()
         {
             Console.WriteLine("After Assembly");
         }
+
     }
 }
