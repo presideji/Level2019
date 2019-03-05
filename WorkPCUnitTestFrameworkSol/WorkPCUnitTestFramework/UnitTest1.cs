@@ -30,28 +30,28 @@ namespace WorkPCUnitTestFramework
 
         
         [TestMethod]
-        [TestCategory("Smoke Test")]
-        public void TestMethod1()
+        [TestCategory("Smoke Test"), Ignore]
+        public void CreateAccount()
         {
-            Console.WriteLine("test1");
+            Console.WriteLine("CREATE A USER ACCOUNT");
+        }
+
+        
+        [TestMethod]
+        [TestCategory("UAT test")]
+        public void LogIntoAccount()
+        {
+            Console.WriteLine("LOG INTO THE APPLICATION");
+
         }
 
 
         [TestMethod]
         [TestCategory("Regression Test")]
-        public void TestMethod2()
+        public void LogOutOfAccount()
         {
-            Console.WriteLine("Test2");
+            Console.WriteLine("LOG OUT OF ACCOUNT");
         }
-
-        [TestMethod]
-        [TestCategory("UAT")]
-        public void TestMethod3()
-        {
-            Console.WriteLine("This is the third Test");
-
-        }
-
 
         [TestCleanup]
         public void AfterTest()
