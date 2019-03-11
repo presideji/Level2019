@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\bin\Debug\UnitProject.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\bin\Debug\UnitProject.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\bin\Debug\WebDriver.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\bin\Debug\WebDriver.Support.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\bin\Debug\WebDriver.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\bin\Debug\WebDriver.Support.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\obj\Debug\UnitProject.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\obj\Debug\UnitProject.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\UnitProjectSol\UnitProject\obj\Debug\UnitProject.csprojResolveAssemblyReference.cache

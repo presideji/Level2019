@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\First2019ConsoleSol\First2019Console\bin\Debug\First2019Console.exe.config
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\First2019ConsoleSol\First2019Console\bin\Debug\First2019Console.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\First2019ConsoleSol\First2019Console\bin\Debug\First2019Console.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\First2019ConsoleSol\First2019Console\obj\Debug\First2019Console.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\First2019ConsoleSol\First2019Console\obj\Debug\First2019Console.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\First2019ConsoleSol\First2019Console\obj\Debug\First2019Console.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\First2019CSharpConsoleSol\First2019Console\bin\Debug\First2019Console.exe.config
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\First2019CSharpConsoleSol\First2019Console\obj\Debug\First2019Console.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\First2019CSharpConsoleSol\First2019Console\obj\Debug\First2019Console.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\First2019CSharpConsoleSol\First2019Console\bin\Debug\First2019Console.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\First2019CSharpConsoleSol\First2019Console\bin\Debug\First2019Console.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\First2019CSharpConsoleSol\First2019Console\obj\Debug\First2019Console.csprojResolveAssemblyReference.cache
