@@ -5,6 +5,5 @@ C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\Eag
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\bin\Debug\WebDriver.Support.dll
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\bin\Debug\WebDriver.xml
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\bin\Debug\WebDriver.Support.xml
-C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\obj\Debug\JekinsTest.csprojResolveAssemblyReference.cache
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\obj\Debug\JekinsTest.dll
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\obj\Debug\JekinsTest.pdb
