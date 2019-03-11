@@ -30,6 +30,9 @@ namespace JekinsTest.TestFolder
             Console.WriteLine("This is test to see if test runs on the Jenkins environment");
             Console.WriteLine("This is test to see if test runs on the Jenkins environment");
             Console.WriteLine("This is test to see if test runs on the Jenkins environment");
+            Console.WriteLine("This is test to see if test runs on the Jenkins environment");
+            Console.WriteLine("This is test to see if test runs on the Jenkins environment");
+
         }
 
         [TestMethod]
