@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -79,10 +80,10 @@ namespace First2019Console
             var resultRem = numberTwo%2;
             var resultRemtwo = numberOne%2;
 
-            Console.WriteLine(numberOne);
+            //Console.WriteLine(numberOne);
            
-            Console.WriteLine(numberOne--);
-            Console.WriteLine(numberOne);
+            //Console.WriteLine(numberOne--);
+            //Console.WriteLine(numberOne);
             //Console.WriteLine($"{numberOne} plus {numberTwo} is equal to {result}");
             //Console.WriteLine($"{numberTwo} minus {numberOne} is equal to {resultSub}");
             //Console.WriteLine($"{numberOne} times {numberTwo} is equal to {resultMul}");
@@ -106,7 +107,52 @@ namespace First2019Console
             //    Console.WriteLine("this statement is false");
             //}
 
+            Console.WriteLine($"{numberOne}");
+            Console.WriteLine($"{numberTwo}");
+            //if (numberOne > 55)
+            //{
+            //    Console.WriteLine($"{numberOne} is greater than 55");
+            //}
+            //else
+            //{
+            //    Console.WriteLine($"{numberOne} is less than 5");
+            //}
+            //if (numberOne > 55)
+            //{
+            //    Console.WriteLine($"{numberOne} is greater than 55");
+            //}
+            //else if (numberTwo < 55)
+            //{
+            //    if (long.MaxValue > int.MaxValue)
+            //    {
+            //        Console.WriteLine(long.MaxValue);
+            //    }
+            //    Console.WriteLine($"{numberTwo} is less than 55" );
+            //}
+            //else
+            //{
+            //    Console.WriteLine("None of the numbers are valid");
+            //}
 
+            switch (numberOne)
+            {
+                case 22:
+                    Console.WriteLine("Print me if 22");
+                    break;
+
+                case 30:
+                    Console.WriteLine("Print me if 30");
+                    break;
+                case 33:
+                    Console.WriteLine("Print me if 33");
+                    break;
+
+                default:
+                    Console.WriteLine("I do not exist");
+                    break;
+             }
+
+            Console.WriteLine("confirm you have left the switch statement");
             Console.ReadLine();
 
 
