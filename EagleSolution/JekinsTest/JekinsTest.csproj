@@ -65,12 +65,16 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="BrowserFactory\Browsers.cs" />
     <Compile Include="Config\Test.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Test.settings</DependentUpon>
     </Compile>
-    <Compile Include="TestFolder\Tests.cs" />
+    <Compile Include="Pages\BasePage.cs" />
+    <Compile Include="Pages\WelcomePage.cs" />
+    <Compile Include="Test\Hooks\TestHooks.cs" />
+    <Compile Include="Test\MyTests\PageTitleTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -81,7 +85,9 @@
     </None>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="TestData\" />
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

@@ -25,13 +25,25 @@ namespace JekinsTest.Config {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://www.next.co.uk/")]
         public string BaseUrl {
             get {
                 return ((string)(this["BaseUrl"]));
             }
             set {
                 this["BaseUrl"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Chrome")]
+        public string Browser {
+            get {
+                return ((string)(this["Browser"]));
+            }
+            set {
+                this["Browser"] = value;
             }
         }
     }

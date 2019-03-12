@@ -1,27 +1,33 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 using System.Threading;
+using System.Threading.Tasks;
+using JekinsTest.Pages;
+using JekinsTest.Test.Hooks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
-namespace JekinsTest.TestFolder
+namespace JekinsTest.Test.MyTests
 {
     [TestClass]
-    public class FirtsTests
+    public class PageTitleTest : TestHooks
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidatingPageTitle()
         {
-            //Console.WriteLine("This is test to see if test runs on the Jenkins environment");
-            IWebDriver driver = new ChromeDriver();
-            driver.Navigate().GoToUrl("https://www.next.co.uk/");
-            driver.Manage().Window.Maximize();
-            driver.FindElement(By.Id("sli_search_1")).SendKeys("Hello Lady");
-            Thread.Sleep(10000);
-            var result = driver.Title.Contains("Next");
+            //title = Next Official Site: Online Fashion
+            var title = "Next Official Site: Online Fashion";
+
+
+            WelcomePage welcomePage = new WelcomePage(Driver);
+            var result = welcomePage.ValidatePageTitle(title);
             Assert.IsTrue(result);
-            driver.Quit();
+
         }
+
 
         [TestMethod]
         public void TestMethod2()
@@ -68,5 +74,4 @@ namespace JekinsTest.TestFolder
             Console.WriteLine("This is test to see if test runs on the Jenkins environment");
         }
     }
-
 }
