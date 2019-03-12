@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EagleSolutionMyWay.Config" GeneratedClassName="Test">
+  <Profiles />
+  <Settings>
+    <Setting Name="BaseUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.next.co.uk/</Value>
+    </Setting>
+    <Setting Name="DefaultTimeOuts" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="ChromeBrowser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">chrome</Value>
+    </Setting>
+    <Setting Name="FirefoxBrowser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">firefox</Value>
+    </Setting>
+    <Setting Name="InternetExplorerBrowser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ie</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
