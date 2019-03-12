@@ -1,8 +1,10 @@
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\bin\Debug\JekinsTest.dll
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\bin\Debug\JekinsTest.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\bin\Debug\log4net.dll
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\bin\Debug\WebDriver.dll
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\bin\Debug\WebDriver.Support.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\bin\Debug\log4net.xml
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\bin\Debug\WebDriver.xml
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\bin\Debug\WebDriver.Support.xml
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\obj\Debug\JekinsTest.csprojResolveAssemblyReference.cache
