@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\bin\Debug\IEDriverServer-license.txt
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\bin\Debug\IEDriverServer.exe
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\bin\Debug\NextWebProj.dll.config
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\bin\Debug\NextWebProj.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\bin\Debug\NextWebProj.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\bin\Debug\WebDriver.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\bin\Debug\WebDriver.Support.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\bin\Debug\WebDriver.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\bin\Debug\WebDriver.Support.xml
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\obj\Debug\NextWebProj.dll
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\obj\Debug\NextWebProj.pdb
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\NextWebProjSol\NextWebProj\obj\Debug\NextWebProj.csprojResolveAssemblyReference.cache

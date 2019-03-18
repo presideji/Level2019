@@ -15,6 +15,7 @@ namespace JekinsTest.BrowserFactory
 {
     public class Browsers
     {
+
         private static readonly ILog Logger = LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
         private IWebDriver driver;
         public IWebDriver LoadBrowser()

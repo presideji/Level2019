@@ -107,8 +107,8 @@ namespace First2019Console
             //    Console.WriteLine("this statement is false");
             //}
 
-            Console.WriteLine($"{numberOne}");
-            Console.WriteLine($"{numberTwo}");
+            //Console.WriteLine($"{numberOne}");
+            //Console.WriteLine($"{numberTwo}");
             //if (numberOne > 55)
             //{
             //    Console.WriteLine($"{numberOne} is greater than 55");
@@ -134,25 +134,85 @@ namespace First2019Console
             //    Console.WriteLine("None of the numbers are valid");
             //}
 
-            switch (numberOne)
+            //switch (numberOne)
+            //{
+            //    case 22:
+            //        Console.WriteLine("Print me if 22");
+            //        break;
+
+            //    case 30:
+            //        Console.WriteLine("Print me if 30");
+            //        break;
+            //    case 33:
+            //        Console.WriteLine("Print me if 33");
+            //        break;
+
+            //    default:
+            //        Console.WriteLine("I do not exist");
+            //        break;
+            // }
+
+            //Console.WriteLine("confirm you have left the switch statement");
+
+            /*
+             * Iteration Statement
+             * Do Statement
+             * While statement
+             * Do-While
+             * For loop
+             * Foreach loop
+             * Break
+             * Continue
+             */
+
+            //when the user types into the console, it's defaultn datatype is a string
+            //prompt
+            //Console.WriteLine("Please, enter your age");
+            //var age = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine($"My age is {age}");
+
+            //while (age != 44)
+            //{
+            //    Console.WriteLine("Please enter your age");
+            //    age = int.Parse(Console.ReadLine());
+
+            //    if (age == 44)
+            //    {
+            //        Console.WriteLine($"You have enter correct age, which is {age}");
+                
+            //    }
+            //    //else
+            //    //{
+            //    //    Console.WriteLine($"The age given {age} is not accepted");
+            //    //    break;
+            //    //}
+
+            //Console.WriteLine("Please enter a number between 5 and 10");
+            //var num = int.Parse(Console.ReadLine());
+                //do
+                //{
+                //    Console.WriteLine("Just show me at least once");
+                //} while (ageNew != 44);
+            //for (var count = 40; count < num; count++)
+            //{
+            //    Console.WriteLine($"Counting num is {num}");
+            //}
+
+            var names = new[] {"andre", "ola", "Joe"};
+            foreach (var name in names)
             {
-                case 22:
-                    Console.WriteLine("Print me if 22");
-                    break;
 
-                case 30:
-                    Console.WriteLine("Print me if 30");
-                    break;
-                case 33:
-                    Console.WriteLine("Print me if 33");
-                    break;
+                Console.WriteLine(name);
 
-                default:
-                    Console.WriteLine("I do not exist");
-                    break;
-             }
+                if (name.Equals("Ola"))
+                {
+                    Console.WriteLine("I found Ola");
+                    continue;
+                }
+            }
+          
 
-            Console.WriteLine("confirm you have left the switch statement");
             Console.ReadLine();
 
 

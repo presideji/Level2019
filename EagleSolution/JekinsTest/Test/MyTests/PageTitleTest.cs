@@ -18,11 +18,8 @@ namespace JekinsTest.Test.MyTests
         [TestMethod]
         public void ValidatingPageTitle()
         {
-            //title = Next Official Site: Online Fashion
-            var title = "Next Official Site: Online Fashion";
-
-
-            WelcomePage welcomePage = new WelcomePage(Driver);
+            var title = "Next Official Site: Shop for Clothes, Shoes, Electricals, Homeware & More";
+            var welcomePage = new WelcomePage(Driver);
             var result = welcomePage.ValidatePageTitle(title);
             Assert.IsTrue(result);
 
