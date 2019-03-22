@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using JekinsTest.BrowserFactory;
+using JekinsTest.Utilities;
 using log4net.Config;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
@@ -16,7 +18,8 @@ namespace JekinsTest.Test.Hooks
     {
         private Browsers browser;
         protected IWebDriver Driver;
-        public TestContext testContext { get; set; }
+        public TestContext TestContext { get; set; }
+
 
         [AssemblyInitialize]
         public static void AssemblyInitialize(TestContext testContext)
@@ -37,9 +40,8 @@ namespace JekinsTest.Test.Hooks
         [TestInitialize]
         public void TestInitialize()
         {
-            this.browser = new Browsers();
+            browser = new Browsers();
             Driver = browser.LoadBrowser();
-
         }
 
 
@@ -47,9 +49,23 @@ namespace JekinsTest.Test.Hooks
         [TestCleanup]
         public void TestCleanup()
         {
+            var shot = new ScreenShot();
+            shot.TakeShot(TestContext);
+
             browser.UnloadBrowser();
         }
 
+        [ClassInitialize]
+        public static void ClassInitialize()
+        {
+            
+        }
+
+        [ClassCleanup]
+        public static void ClassCleanup()
+        {
+
+        }
 
 
     }

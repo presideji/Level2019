@@ -23,5 +23,10 @@ namespace JekinsTest.Pages
             Logger.Info("The page title is "+ Driver.Title);
             return Driver.Title.ToLower().Contains(title.ToLower());
         }
+
+        public bool ValidateItem(string item)
+        {
+            return Driver.PageSource.ToLower().Contains(item.ToLower());
+        }
     }
 }

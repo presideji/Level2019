@@ -15,6 +15,7 @@ namespace JekinsTest.Pages
 
         private static readonly ILog Logger = LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
 
+
         protected IWebDriver Driver { get; set; }
 
         public BasePage(IWebDriver driver)

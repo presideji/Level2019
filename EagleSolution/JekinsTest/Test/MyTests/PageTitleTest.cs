@@ -19,6 +19,7 @@ namespace JekinsTest.Test.MyTests
         public void ValidatingPageTitle()
         {
             var title = "Next Official Site: Shop for Clothes, Shoes, Electricals, Homeware & More";
+            //var title = "Women";
             var welcomePage = new WelcomePage(Driver);
             var result = welcomePage.ValidatePageTitle(title);
             Assert.IsTrue(result);
@@ -27,14 +28,12 @@ namespace JekinsTest.Test.MyTests
 
 
         [TestMethod]
-        public void TestMethod2()
+        public void ValidatingHomePage()
         {
-            Console.WriteLine("This is test to see if test runs on the Jenkins environment");
-            Console.WriteLine("This is test to see if test runs on the Jenkins environment");
-            Console.WriteLine("This is test to see if test runs on the Jenkins environment");
-            Console.WriteLine("This is test to see if test runs on the Jenkins environment");
-            Console.WriteLine("This is test to see if test runs on the Jenkins environment");
-            Console.WriteLine("This is test to see if test runs on the Jenkins environment");
+            var item = "Clearance";
+            WelcomePage welcomePage = new WelcomePage(Driver);
+            var result = welcomePage.ValidateItem(item);
+            Assert.IsTrue(result);
 
         }
 
