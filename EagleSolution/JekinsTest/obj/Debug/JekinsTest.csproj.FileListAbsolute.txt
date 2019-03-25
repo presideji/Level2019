@@ -12,3 +12,4 @@ C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\Eag
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\obj\Debug\JekinsTest.pdb
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\bin\Debug\phantomjs.exe
 C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\bin\Debug\phantomjs-license.txt
+C:\Users\admin\Documents\CERTIFICATIONS\Software Testing\AutoAndre\Level2019\EagleSolution\JekinsTest\obj\Debug\JekinsTest.csprojResolveAssemblyReference.cache
