@@ -13,9 +13,12 @@ namespace First2019Console
         {
             //Console.WriteLine("Hello World");
             //Console.ReadKey();
-            ///*Variable – a name given to a storage location 
+            //*Variable – a name given to a storage location 
+
             //    *Two types --> 
+            //**************************************************************************
             //    * Primitive Types 
+            //**************************************************************************
             //    * Byte 
             //    * Short 
             //    * Long 
@@ -24,6 +27,7 @@ namespace First2019Console
             //    * Boolean 
             //    * Char 
             //    * Non-Primitive Type 
+            //******************************************************************************
             //    * String 
             //    * Array 
             //    * Enum 
@@ -72,16 +76,16 @@ namespace First2019Console
             //Console.WriteLine(long.MinValue);
             //Console.WriteLine(long.MaxValue);
 
-            var numberOne = 33;
-            var numberTwo = 44;
-            var result = numberOne + numberTwo;
-            var resultSub = numberTwo - numberOne;
-            var resultMul = numberTwo * numberOne;
-            var resultRem = numberTwo%2;
-            var resultRemtwo = numberOne%2;
+            //var numberOne = 33;
+            //var numberTwo = 44;
+            //var result = numberOne + numberTwo;
+            //var resultSub = numberTwo - numberOne;
+            //var resultMul = numberTwo * numberOne;
+            //var resultRem = numberTwo%2;
+            //var resultRemtwo = numberOne%2;
 
             //Console.WriteLine(numberOne);
-           
+
             //Console.WriteLine(numberOne--);
             //Console.WriteLine(numberOne);
             //Console.WriteLine($"{numberOne} plus {numberTwo} is equal to {result}");
@@ -92,6 +96,8 @@ namespace First2019Console
 
             //var comOne = resultRem <= resultRemtwo;
             //Console.WriteLine(comOne);
+
+            //*********************************************************************************
             /*
              * AND -- &&
              * OR -- ||
@@ -155,7 +161,8 @@ namespace First2019Console
             //Console.WriteLine("confirm you have left the switch statement");
 
             /*
-             * Iteration Statement
+             * Iteration Statement -- tells you how mant times a statement will be executed
+             * ***********************************************
              * Do Statement
              * While statement
              * Do-While
@@ -180,7 +187,7 @@ namespace First2019Console
             //    if (age == 44)
             //    {
             //        Console.WriteLine($"You have enter correct age, which is {age}");
-                
+
             //    }
             //    //else
             //    //{
@@ -190,29 +197,71 @@ namespace First2019Console
 
             //Console.WriteLine("Please enter a number between 5 and 10");
             //var num = int.Parse(Console.ReadLine());
-                //do
-                //{
-                //    Console.WriteLine("Just show me at least once");
-                //} while (ageNew != 44);
+            //do
+            //{
+            //    Console.WriteLine("Just show me at least once");
+            //} while (ageNew != 44);
             //for (var count = 40; count < num; count++)
             //{
             //    Console.WriteLine($"Counting num is {num}");
             //}
+//**********************************************************************************************************
+            var names = new[] { "andre", "ola", "Joe", "ola" };
+            var timesFound = 0;
 
-            var names = new[] {"andre", "ola", "Joe"};
             foreach (var name in names)
             {
 
                 Console.WriteLine(name);
 
-                if (name.Equals("Ola"))
+                if (name.Equals("ola"))
                 {
-                    Console.WriteLine("I found Ola");
-                    continue;
+                    Console.WriteLine("I found the 1st ola");
+                    //break;
+                    timesFound++;
                 }
-            }
-          
 
+               if (timesFound == 2)
+                {
+                    Console.WriteLine("I have found the 2nd instance of Ola");
+                    break;
+                }
+
+            }
+
+            //**************************************************************************************************************
+
+            //Option 1
+            //var anthony = new Person();
+            //anthony.FirstName = "Anthony";
+            //anthony.Lastname = "Guy";
+            //anthony.IntroduceAnthony();
+
+            //Option 2
+            var anthony = new Person
+            {
+                FirstName = "Anthony",
+                Lastname = "Guy"
+            };
+            anthony.IntroduceAnthony();
+
+            Person.NewFirstName = "Deji";
+            Person.NewLastName = "President";
+            Person.IntroduceDeji();
+            Calculator.Addition(2, 4);
+            Calculator.Multiplication(3, 5);
+            Calculator.Subtraction(9, 4);
+            Calculator.Division();
+            Console.WriteLine("-----------------");
+           
+
+
+
+
+
+
+
+            
             Console.ReadLine();
 
 
